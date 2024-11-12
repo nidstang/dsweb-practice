@@ -56,7 +56,7 @@
       "background": {
         "accent-hover": {
           "$type": "color",
-          "$value": "{color.palette.accent.800}"
+          "$value": "{color.palette.positive.800}"
         },
         "accent-light-hover": {
           "$type": "color",
