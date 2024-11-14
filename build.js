@@ -13,6 +13,7 @@ const loader = ThemesLoader(StyleDictionary);
 async function main () {
     console.log('Hola Pablo');
     console.log('adios');
+    sdfsdf
 }
 
 main();
